@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/uet-quiz-app/static/css/main.f0c7afa6.chunk.css",
+    "main.js": "/uet-quiz-app/static/js/main.aa8a3be6.chunk.js",
+    "main.js.map": "/uet-quiz-app/static/js/main.aa8a3be6.chunk.js.map",
+    "runtime-main.js": "/uet-quiz-app/static/js/runtime-main.d5adca57.js",
+    "runtime-main.js.map": "/uet-quiz-app/static/js/runtime-main.d5adca57.js.map",
+    "static/js/2.0011326f.chunk.js": "/uet-quiz-app/static/js/2.0011326f.chunk.js",
+    "static/js/2.0011326f.chunk.js.map": "/uet-quiz-app/static/js/2.0011326f.chunk.js.map",
+    "index.html": "/uet-quiz-app/index.html",
+    "precache-manifest.d8b5cdade542ca26d70361c294899c42.js": "/uet-quiz-app/precache-manifest.d8b5cdade542ca26d70361c294899c42.js",
+    "service-worker.js": "/uet-quiz-app/service-worker.js",
+    "static/css/main.f0c7afa6.chunk.css.map": "/uet-quiz-app/static/css/main.f0c7afa6.chunk.css.map",
+    "static/js/2.0011326f.chunk.js.LICENSE.txt": "/uet-quiz-app/static/js/2.0011326f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5adca57.js",
+    "static/js/2.0011326f.chunk.js",
+    "static/css/main.f0c7afa6.chunk.css",
+    "static/js/main.aa8a3be6.chunk.js"
+  ]
+}
